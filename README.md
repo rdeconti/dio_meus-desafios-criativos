@@ -70,3 +70,18 @@ Adicione seu arquivo .md ao repositório (pode ser pelo próprio site, em Add fi
 Abra o arquivo no GitHub e copie o link da página (URL do navegador).
 Cole o link no campo de submissão da DIO.
 Dica: o .md no GitHub já é renderizado de forma bonita, sem precisar de nenhuma configuração extra.
+
+PROMPT ENVIADO PARA IA
+
+"Quero que a IA gere uma lista de tarefas para estudantes, com o objetivo de melhorar a organização dos estudos. Considere o seguinte contexto: rotina de estudos diária. O conteúdo deve ter formato de lista simples. Evite linguagem técnica."
+
+RESPOSTA RECEBIDA DA IA
+
+Aqui está a sua lista simples de tarefas diárias para melhorar a organização dos estudos, seguindo exatamente o contexto e as restrições solicitadas:
+• Organizar o espaço de trabalho: Deixar a mesa limpa e separar todo o material que vai usar (livros, cadernos, canetas e computador) antes de começar.
+• Definar a meta do dia: Escrever claramente quais assuntos ou capítulos precisa estudar hoje, dividindo o conteúdo em partes menores.
+• Desligar as distrações: Colocar o celular no modo silencioso e fechar abas do navegador que não sejam das matérias.
+• Estudar em blocos de tempo: Focar totalmente no conteúdo por um período (ex: 25 ou 30 minutos) e fazer uma pausa curta para descansar a mente.
+• Fazer anotações com as próprias palavras: Escrever um resumo simples ou criar tópicos sobre o que acabou de ler para ajudar a fixar a matéria.
+• Resolver exercícios práticas: Responder a pelo menos duas ou três questões sobre o tema estudado para testar o entendimento.
+• Revisar o planejamento de amanhã: Olhar o calendário de aulas ou provas e deixar anotado o que será estudado no dia seguinte.
